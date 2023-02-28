@@ -1,0 +1,84 @@
+.main-container{
+    width: 100%;
+    float: left;
+    height: 100vh;
+    background-color: #E6EFF6;
+}
+.card{
+    width: 50%;
+    height: 600px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    background-color: yellow;
+    margin-top: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius : 10px;
+}
+.top-div{
+    width: 100%;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 250px;
+   
+}
+.top-div h2,h3,p{
+   
+}
+  
+.bottom-div{
+    width: 100%;
+    float: left;
+     height: 350px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  
+}
+.subscribtion{
+    text-align: center;
+    background-color: #2BB3B1;
+    border-bottom-left-radius: 10px;
+}
+.subscribtion span{
+    font-size: large;
+}
+.whyUs{
+    background-color: #4ABEBD;
+    border-bottom-right-radius: 10px;
+   
+}
+.button{
+    all: unset;
+    background-color: #BFDF32;
+    width: 200px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius : 10px;
+
+}
+.aboutUs{
+    width: 350PX;
+    color: rgb(245, 241, 241)
+}
+.join{
+ margin:5%;
+}
+.day{
+    margin:5%;
+}
+.gain{
+  margin:5%;
+ }
+
+.why-us-conntent{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
